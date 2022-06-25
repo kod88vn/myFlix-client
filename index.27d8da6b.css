@@ -1,0 +1,85 @@
+.form-label {
+  color: #fff;
+}
+
+.movie-card {
+  box-sizing: border-box;
+  text-align: center;
+  width: 90%;
+  opacity: .8;
+  border-radius: 20px;
+  margin: 30px auto auto;
+  padding: 1.5%;
+  display: block;
+  background-color: #c5cbe3 !important;
+}
+
+.movie-view {
+  box-sizing: border-box;
+  text-align: center;
+  width: 90%;
+  opacity: .8;
+  border-radius: 20px;
+  margin: 30px auto auto;
+  padding: 1.5%;
+  display: block;
+  background-color: #c5cbe3 !important;
+}
+
+.director-view {
+  box-sizing: border-box;
+  text-align: center;
+  width: 90%;
+  opacity: .8;
+  border-radius: 20px;
+  margin: 30px auto auto;
+  padding: 1.5%;
+  display: block;
+  background-color: #c5cbe3 !important;
+}
+
+.genre-view {
+  box-sizing: border-box;
+  text-align: center;
+  width: 90%;
+  opacity: .8;
+  border-radius: 20px;
+  margin: 30px auto auto;
+  padding: 1.5%;
+  display: block;
+  background-color: #c5cbe3 !important;
+}
+
+.form-label {
+  color: #fff;
+}
+
+.movie-card {
+  box-sizing: border-box;
+  text-align: center;
+  width: 90%;
+  opacity: .8;
+  border-radius: 20px;
+  margin: 30px auto auto;
+  padding: 1.5%;
+  display: block;
+  background-color: #c5cbe3 !important;
+}
+
+.form-label {
+  color: #fff;
+}
+
+body {
+  background-color: #f47174;
+  background-image: url("curtain.8ed9a3bc.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.my-flix {
+  color: #4682b4;
+}
+
+/*# sourceMappingURL=index.27d8da6b.css.map */
